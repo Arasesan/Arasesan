@@ -59,4 +59,4 @@
 
 </body>
 </html>
-
+https://arasesan.github.io/FoxAI-Coin/html.index
